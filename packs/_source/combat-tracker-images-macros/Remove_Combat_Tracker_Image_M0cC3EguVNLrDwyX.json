@@ -1,0 +1,21 @@
+{
+  "name": "Remove Combat Tracker Image",
+  "type": "script",
+  "author": "saIaYxNGOV35qD7X",
+  "img": "modules/combat-tracker-images/macro-icons/tracker-image-subract.svg",
+  "scope": "global",
+  "command": "async function removeCombatTrackerImage() {  \n  actor = game.actors.get(token.actor._id);\n  await actor.unsetFlag('combat-tracker-images', 'trackerImage');\nconsole.log('remove')\n}\n\nremoveCombatTrackerImage();",
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "createdTime": 1669070225612,
+    "modifiedTime": 1669070706245
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "M0cC3EguVNLrDwyX",
+  "_key": "!macros!M0cC3EguVNLrDwyX"
+}

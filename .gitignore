@@ -1,0 +1,13 @@
+.DS_Store
+*.zip
+
+# LevelDB volatile files (regenerated each time Foundry opens the database)
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old
+packs/**/*.log
+
+# Development
+node_modules/
+package.json
+package-lock.json
