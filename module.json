@@ -2,7 +2,8 @@
   "id": "combat-tracker-images",
   "title": "Combat Tracker Images",
   "description": "Replace the token images in the combat tracker with a specified image for each described actor.",
-  "version": "3.0.0",
+  "version": "3.0.1",
+  "license": "LICENSE",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
