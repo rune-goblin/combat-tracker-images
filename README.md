@@ -1,7 +1,7 @@
 # combat-tracker-images
 FoundryVTT Module that replaces images in the combat tracker
 
-![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/combat-tracker-images/total)
+![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/combat-tracker-images/total?include_prereleases&filter=*.zip)
 
 This module lets you select a custom image to to represent an Actor in the combat tracker. Square images (1:1 aspect ration) are best.
 Now you can replace that token image with a nice headshot for your PC's
