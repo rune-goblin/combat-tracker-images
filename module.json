@@ -2,11 +2,11 @@
   "id": "combat-tracker-images",
   "title": "Combat Tracker Images",
   "description": "Replace the token images in the combat tracker with a specified image for each described actor.",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
   "esmodules": ["scripts/init.js"],
